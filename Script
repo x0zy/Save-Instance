@@ -1,4 +1,4 @@
--- script by synsaveinstance, depois de executar o script o usuario deve ir até ao workspace
+-- script by synsaveinstance
 
 local player = game.Players.LocalPlayer
 
