@@ -16,7 +16,7 @@ button.TextColor3 = Color3.fromRGB(255, 255, 255)
 button.Font = Enum.Font.SourceSansBold
 button.TextSize = 18
 button.AutoButtonColor = true
-button.Draggable = true -- Permite arrastar o botão
+button.Draggable = true 
 
 button.MouseButton1Click:Connect(function()
     print("This script was not made by me but by Universal Syn Save Instance | AGPL-3.0 license")
